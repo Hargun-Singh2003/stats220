@@ -1,0 +1,22 @@
+---
+title: "Index"
+author: "Hargun Singh"
+date: "2024-03-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### STATS 220
+
+## This is my STATS 220 Webpage
+
+# Project 1
+
+![This is my Meme](my_meme.png)
+
+![This is my Gif](my_animation.gif)
+
+### Thanks for visiting.
